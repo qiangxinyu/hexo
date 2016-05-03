@@ -1,0 +1,28 @@
+menu:
+  #Archives: /archives
+  项目作品: /projects/index.html
+  关于我: /aboutme/index.html
+  
+rss: /atom.xml
+description: 一个新家。
+social:
+  weibo: http://weibo.com/2164034575/profile?topnav=1&wvr=6&is_all=1
+  github: https://github.com/qiangxinyu
+  stack_overflow: http://stackoverflow.com/users/6238748/qiangxinyu
+  facebook: https://www.facebook.com/profile.php?id=100009775483272
+  twitter: https://twitter.com/?request_context=signup
+  google_plus: https://plus.google.com/105445658809727822489
+
+page_comment: faile
+logo: /images/logo2.jpg
+background:
+  cover: /images/background-cover.jpg
+  color: cover-blue
+
+archive_date_format: MMM DD
+fancybox: true
+
+duoshuo_shortname: 
+
+google_analytics: UA-42596364-1
+favicon: /images/favicon.png
